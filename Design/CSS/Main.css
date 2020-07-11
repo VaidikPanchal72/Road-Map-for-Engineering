@@ -661,6 +661,10 @@ ul.icons li {
     background-color: #e8e4e3;
 }
 
+.tiles article.style8>.image:before {
+    background-color: #96B593;
+}
+
 body:not(.is-touch) .tiles article:hover>.image {
     -moz-transform: scale(1.1);
     -webkit-transform: scale(1.1);
